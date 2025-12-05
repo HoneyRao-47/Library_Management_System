@@ -1,3 +1,8 @@
+  
+📘 Library Management System (LMS)
+
+The Library Management System is a simple project demonstrating how to manage library operations such as handling books, members, issuing, returning, and searching records.
+This project is developed as part of the Software Project Planning and Management Assignment, following the complete SDLC process using Jira, Confluence, and GitHub           
 📌 Project Overview
 
 The Library Management System (LMS) is designed to simplify library operations such as managing books, members, issuing books, returns, and searching members.

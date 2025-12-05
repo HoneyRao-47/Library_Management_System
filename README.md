@@ -30,6 +30,7 @@ Designer	—
 
 
 🗂️ Features Implemented
+
 ✔ 1. Search Members by Name or Member ID 
 
 User can search library members
@@ -53,6 +54,7 @@ Description:
 Search functionality implemented using name or ID. Linked GitHub commit via Jira.
 
 🔄 Tools Used
+
 Tool	Purpose
 Jira	Task creation, assignment, progress tracking, linking commits
 Confluence	Project plan, requirements, effort estimation
@@ -78,9 +80,11 @@ Total Hours: 6 hrs
 
 Cost Estimate
 Hourly Rate	Total Cost
+
 $5/hr	$30
 $10/hr	$60
 $20/hr	$120
+
 🧪 Testing Summary
 
 Searched by valid name → shows correct member
